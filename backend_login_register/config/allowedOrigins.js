@@ -1,5 +1,7 @@
 const allowedOrigins = [
     'https://ezhousewebsite.vercel.app',
+    'https://ezhouse.ml',
+    'ezhouse.ml',
     'http://ezhousewebsite.vercel.app',
     'ezhousewebsite.vercel.app',
     'www.ezhousewebsite.vercel.app',
